@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Rafael Berton
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Rafael Berton Martins, tenho 18 anos e sou natural de Curitiba. Concluí o ensino médio no Colegio Bom Jesus. Atualmente, estou cursando Engenharia de Software na PUCPR. Desde cedo sempre gostei dessa área da tecnologia, e atualmente estou no meu segundo ano de faculdade, apaixonado pelo curso e pronto para desempenhar meus aprendizados!
 
