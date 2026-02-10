@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Rafael Berton
+# 🧑🏻‍💻 Rafael Berton
 
 **`Desenvolvedor FullStack`**
 
